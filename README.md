@@ -1,1 +1,1 @@
-# Diamond-Pattern
+.# Diamond-Pattern
